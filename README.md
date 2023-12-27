@@ -16,12 +16,12 @@ Quickly assess your most recent expenses and view the total amount spent during 
 
 ## Getting Started
 To run the Expense Tracker App on your device, follow these steps:
-
 1. Install node_moudles
    ```npm install```
 2. Run Expo App
    ```npx expo run```
 3. Expo will generate a QR code. Scan the QR code using the [Expo Go](https://expo.dev/client) app on your mobile device.
+
 Now, you're all set to explore and use the Expense Tracker App on your device!
 
 ## Feedback and Support
