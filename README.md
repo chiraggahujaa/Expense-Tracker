@@ -1,4 +1,4 @@
-# Expense Tracker App Read Me
+# Expense Tracker App
 
 ## Overview
 Welcome to the Expense Tracker App! This mobile application is designed to help you keep track of your expenses effortlessly. Built using React Native, it offers a user-friendly interface and essential functionalities to manage your spending.
@@ -8,10 +8,10 @@ Welcome to the Expense Tracker App! This mobile application is designed to help 
 ### 1. Add Expense
 Easily add your expenses with a few simple steps. This feature allows you to input the amount, category, and any additional notes for a comprehensive record of your spending.
 
-### 2. Check All Expenses with Total Amount
+### 2. Check All Expenses
 Get a detailed overview of all your expenses along with the total amount spent. This feature enables you to review your spending habits over a specific period.
 
-### 3. Check Recent Expenses with Total Amount
+### 3. Check Recent Expenses
 Quickly assess your most recent expenses and view the total amount spent during a specific time frame. This feature provides a snapshot of your latest financial activity.
 
 ## Getting Started
